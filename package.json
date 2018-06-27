@@ -1,0 +1,16 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "Examples of unit testing with Jest",
+  "main": "index.js",
+  "repository": "https://github.com/ryandoll/unit-testing.git",
+  "author": "Ryan Doll <ryandoll@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watch"
+  },
+  "dependencies": {
+    "jest": "^23.2.0"
+  }
+}
